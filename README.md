@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O projeto foi feito com o propósito de estudar o efeito de scroll "Parallax" do CSS, atributos do background. 
-- [Acesse o projeto finalizado, online](hhttps://marcio-s.github.io/Parallax-PMC/)
+- [Acesse o projeto finalizado, online](https://marcio-s.github.io/Parallax-PMC/)
 
 
 ## 🔖 Layout
