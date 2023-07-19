@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto PMC" src="../Parallax Military PMC/img/parallax.jpeg" width="100%">
+  <img alt="projeto PMC" src="./img/parallax.jpeg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
